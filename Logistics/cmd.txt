@@ -1,0 +1,5 @@
+cd C:\Users\Rohit RJ\Downloads\Logistics\src
+
+javac -cp ..\lib\mysql-connector-j-9.0.0.jar *.java
+
+java -cp .;..\lib\mysql-connector-j-9.0.0.jar LogisticSystemApp
